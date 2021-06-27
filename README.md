@@ -11,5 +11,11 @@ Source codes for "[RIRNet: Recurrent-In-Recurrent Network for Video Quality Asse
 ## Citation
 If you find this work useful for your research, please cite our paper:
 ```
-Hello world!
+@inproceedings{chen2020RIRNet,
+  title={RIRNet: Recurrent-in-Recurrent Network for Video Quality Assessment},
+  author={Chen, Pengfei and Li, Leida and Ma, Lei and Wu, Jinjian and Shi, Guangming},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={834--842},
+  year={2020}
+}
 ```
