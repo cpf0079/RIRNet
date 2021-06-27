@@ -1,7 +1,9 @@
 # RIRNet
-Source codes for ACMMM'20 paper "[RIRNet: Recurrent-In-Recurrent Network for Video Quality Assessment](https://dl.acm.org/doi/abs/10.1145/3394171.3413717)".
+Source codes for paper "[RIRNet: Recurrent-In-Recurrent Network for Video Quality Assessment](https://dl.acm.org/doi/abs/10.1145/3394171.3413717)" in Proceedings of the 28th ACM International Conference on Multimedia (ACM MM ’20).
 
 ![image](https://github.com/cpf0079/RIRNet/blob/main/framework.png)
+
+## Usages
 
 ## Environment
 * Python 3.6.5
