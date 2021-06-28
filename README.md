@@ -14,15 +14,15 @@ You will get a quality score ranging from 0-5, and a higher value indicates bett
 ### Training on VQA databases
 Reading mos values from the .csv files:
 ```
-python ./released/get_label.py
+python ./Released/get_label.py
 ```
 Processing .mp4 files to frames:
 ```
-python ./released/get_frame.py
+python ./Released/get_frame.py
 ```
 Training the model with 'label_path' and 'frame_path':
 ```
-python ./released/source.py
+python ./Released/source.py
 ```
 
 ## Environment
